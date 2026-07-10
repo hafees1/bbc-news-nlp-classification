@@ -1,6 +1,5 @@
 # 📰 BBC News Classification using NLP and Machine Learning
 
----
 ![Project Image](images/newsroom.png)
 
 
