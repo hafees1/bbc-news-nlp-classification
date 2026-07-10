@@ -1,7 +1,8 @@
 # 📰 BBC News Classification using NLP and Machine Learning
 
-
 ---
+![Project Image](images/newsroom.png)
+
 
 ## 📌 Overview
 
@@ -117,3 +118,6 @@ The performance of all models was compared to identify the most effective approa
 - Trained and compared four different machine learning classifiers.
 - Evaluated model performance using accuracy and classification reports.
 - Compared the effectiveness of different feature extraction techniques and machine learning models for text classification.
+
+ ![Result Image](images/graph.png)
+
